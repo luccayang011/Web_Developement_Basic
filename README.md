@@ -1,2 +1,2 @@
 # Web_Developement_Basic
-Following Angela's course on Udemy
+Here are the practicing codes I've written following Angela's course on Udemy.
