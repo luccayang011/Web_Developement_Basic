@@ -1,2 +1,2 @@
 # Web_Developement_Basic
-Follow Angela's course on Udemy
+Following Angela's course on Udemy
