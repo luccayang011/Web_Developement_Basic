@@ -1,0 +1,35 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+/**************** BELOW ARE MY ANSWERS ****************/
+/* element selector */
+p{
+  color:red;
+}
+
+/* class selector */
+/* dot and then immediately class name */
+.note{
+  font-size: 20px;
+}
+
+/* id selector */
+/* pond sign and then immediately id number */
+#id-selector-demo{
+  color: green;
+}
+
+/* attribute selector */
+li[value="4"]{
+  color: blue;
+}
+
+/* universal selector */
+*{
+  text-align: center
+}
